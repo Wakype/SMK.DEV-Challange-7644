@@ -6,6 +6,8 @@ contoh:
 const nilai_N = sumOfSeries(2, 5);
 ```
 
+`sumOfSeries(2, 5)` 2 adalah angkanya dan 5 adalah berapa kali pengulangannya
+
 ## Tech Stack
 
 **Language:** Typescript, Node.js
@@ -86,3 +88,4 @@ Abis itu tinggal jalanin deh :)
 
 ## Contoh
 <img width="673" alt="Screenshot 2023-09-23 at 04 56 16" src="https://github.com/Wakype/SMK.DEV-Challange-7644/assets/94674924/dbf4d598-c097-4944-8853-90858b421e07">
+<img width="1302" alt="Screenshot 2023-09-23 at 04 58 24" src="https://github.com/Wakype/SMK.DEV-Challange-7644/assets/94674924/a9e524cd-054b-4fc7-b0cb-6ff93736b47a">
